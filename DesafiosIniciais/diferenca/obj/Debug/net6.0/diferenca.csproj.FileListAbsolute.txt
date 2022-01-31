@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\diferenca.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\diferenca.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\diferenca.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\diferenca.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\ref\diferenca.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\bin\Debug\net6.0\diferenca.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\ref\diferenca.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\diferenca\obj\Debug\net6.0\diferenca.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\multiplos.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\multiplos.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\multiplos.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\multiplos.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\ref\multiplos.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\bin\Debug\net6.0\multiplos.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\ref\multiplos.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\multiplos\obj\Debug\net6.0\multiplos.genruntimeconfig.cache

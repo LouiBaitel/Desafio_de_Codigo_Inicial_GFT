@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\calculosSimples.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\calculosSimples.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\calculosSimples.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\calculosSimples.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\ref\calculosSimples.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\bin\Debug\net6.0\calculosSimples.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\ref\calculosSimples.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\Desafio de código\DesafiosIniciais\calculosSimples\obj\Debug\net6.0\calculosSimples.genruntimeconfig.cache
